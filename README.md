@@ -1,7 +1,14 @@
-# Blog
+# Ember 2 Blog
+##### March 2016
+##### By Jeff Seymour and Lauryn Davis
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+
+## Description
+##### This is a basic blog built with Ember2. Allows a user to post, delete, and edit blog posts.  Also implements one-to-many relationships with comments.  
+
+## Technologies Used
+Ember 2, JavaScript, Bower, HTML, CSS, Firebase
+
 
 ## Prerequisites
 
@@ -50,4 +57,8 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+   
+## License
+Copyright (c) 2016 Jeff Seymour
 
+This software is licensed under the MIT license.
