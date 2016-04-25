@@ -7,7 +7,7 @@
 ##### This is a basic blog built with Ember2. Allows a user to post, delete, and edit blog posts.  Also implements one-to-many relationships with comments.  
 
 ## Technologies Used
-Ember 2, JavaScript, Bower, HTML, CSS, Firebase
+Ember 2, JavaScript, Bower, HTML, SCSS, Firebase
 
 
 ## Prerequisites
